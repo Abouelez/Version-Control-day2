@@ -2,7 +2,7 @@ Delete locally => git branch -d <branch-name>
 
 Delete Remotely => git push origin --delete <branch-name>
 
-<img src="images/133872091225735180.jpg" width="300" alt="image">
+<img src="images/check.png" width="300" alt="image">
 
 Annotated Tags vs Lightweight Tags
 
