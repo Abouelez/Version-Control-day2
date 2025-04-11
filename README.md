@@ -5,6 +5,7 @@ Delete Remotely => git push origin --delete <branch-name>
 <img src="images/133872091225735180.jpg" width="300" alt="image">
 
 Annotated Tags vs Lightweight Tags
+
 Lightweight Tags
 Simplicity: They are just pointers to commits and lack the metadata that annotated tags have.
 Commit Object: No additional Git object is created; it's essentially a named reference to a commit.
